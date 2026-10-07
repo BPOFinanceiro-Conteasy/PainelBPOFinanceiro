@@ -1,0 +1,595 @@
+{
+  "versaoBase": "2026-10-07.2",
+  "meta": 100000,
+  "responsaveis": [
+    "Lislane",
+    "Joana",
+    "Jéssica",
+    "Ana"
+  ],
+  "recorrenciaHistorica": {
+    "Julho": 45675.98,
+    "Agosto": 45675.98,
+    "Setembro": 45675.98
+  },
+  "extras": [
+    {
+      "id": "e1",
+      "cliente": "Unilux",
+      "mes": "Julho",
+      "status": "Confirmado",
+      "atividade": "Implantação Empresarial",
+      "obs": "Avaliar no final do mês",
+      "execucao": "Concluído",
+      "total": 5000,
+      "setor": 2500,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e2",
+      "cliente": "Mac Fardamentos",
+      "mes": "Julho",
+      "status": "Confirmado",
+      "atividade": "Implantação Empresarial + RH",
+      "obs": "Valor RH — R$ 3.280,00",
+      "execucao": "Em andamento",
+      "total": 8880,
+      "setor": 4534.4,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e3",
+      "cliente": "Hugo Leonardo Motopeças",
+      "mes": "Julho",
+      "status": "Confirmado",
+      "atividade": "Consultoria Financeira",
+      "obs": "7% Comercial = R$ 105,00",
+      "execucao": "Concluído",
+      "total": 1500,
+      "setor": 1215,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e4",
+      "cliente": "SFH",
+      "mes": "Agosto",
+      "status": "Confirmado",
+      "atividade": "Assessoria Financeira",
+      "obs": "",
+      "execucao": "",
+      "total": 2500,
+      "setor": 2200,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e5",
+      "cliente": "4A Representações",
+      "mes": "Agosto",
+      "status": "Aguardando",
+      "atividade": "Consultoria Financeira",
+      "obs": "7% Comercial = R$ 105,00",
+      "execucao": "A iniciar",
+      "total": 1500,
+      "setor": 1395,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e6",
+      "cliente": "IF Bezerra",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Reestruturação Empresarial",
+      "obs": "",
+      "execucao": "Em andamento",
+      "total": 7000,
+      "setor": 6160,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e7",
+      "cliente": "Designsoft",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Valuation",
+      "obs": "",
+      "execucao": "Em andamento",
+      "total": 13500,
+      "setor": 4690,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e8",
+      "cliente": "Mania Caseira",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Implantação Empresarial",
+      "obs": "7% Comercial = R$ 2.450,00",
+      "execucao": "",
+      "total": 35000,
+      "setor": 17150,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e9",
+      "cliente": "Cindy Housekeeper",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Consultoria Trimestral",
+      "obs": "",
+      "execucao": "A iniciar",
+      "total": 4500,
+      "setor": 3960,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e10",
+      "cliente": "Coffeetown",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Conciliação Retroativa — Jan a Jun/2026 (2 empresas)",
+      "obs": "",
+      "execucao": "Em andamento",
+      "total": 2500,
+      "setor": 2200,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e11",
+      "cliente": "Unilux",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Conciliação Retroativa — Jan a Jun/2026",
+      "obs": "",
+      "execucao": "Concluído",
+      "total": 3000,
+      "setor": 2640,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e12",
+      "cliente": "Paradise Beach",
+      "mes": "Setembro",
+      "status": "Confirmado",
+      "atividade": "Implantação Empresarial",
+      "obs": "Parceria Rota Contábil — R$ 4.680,00",
+      "execucao": "Em andamento",
+      "total": 12000,
+      "setor": 9360,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e13",
+      "cliente": "FSX",
+      "mes": "Setembro",
+      "status": "Aguardando",
+      "atividade": "Consultoria Trimestral",
+      "obs": "7% Comercial = R$ 350,00",
+      "execucao": "A iniciar",
+      "total": 5000,
+      "setor": 4650,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e14",
+      "cliente": "Norte Sul Polpas",
+      "mes": "Setembro",
+      "status": "Aguardando",
+      "atividade": "Implantação Empresarial",
+      "obs": "Parceria Rota Contábil",
+      "execucao": "",
+      "total": 5000,
+      "setor": 3600,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e15",
+      "cliente": "Jet Machine",
+      "mes": "Setembro",
+      "status": "Aguardando",
+      "atividade": "Implantação Empresarial",
+      "obs": "Parceria Rota Contábil",
+      "execucao": "",
+      "total": 3500,
+      "setor": 2100,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e16",
+      "cliente": "Pousada Manaaim",
+      "mes": "Setembro",
+      "status": "Aguardando",
+      "atividade": "Implantação Empresarial",
+      "obs": "Parceria Rota Contábil · valor do setor não informado",
+      "execucao": "",
+      "total": 3500,
+      "setor": null,
+      "comissaoPct": 10
+    },
+    {
+      "id": "e17",
+      "cliente": "Mac Fardamentos",
+      "mes": "Outubro",
+      "status": "Confirmado",
+      "atividade": "Inventário de Estoque",
+      "obs": "Parceria Jarmison",
+      "execucao": "A iniciar",
+      "total": 9500,
+      "setor": 1860,
+      "comissaoPct": 10
+    }
+  ],
+  "carteira": [
+    {
+      "id": "c1",
+      "cliente": "Nuvem Ótica",
+      "resp": "Lislane",
+      "valor": 1133.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c2",
+      "cliente": "VL Divulgações",
+      "resp": "Lislane",
+      "valor": 1333.33,
+      "tag": "",
+      "obs": "",
+      "risco": true
+    },
+    {
+      "id": "c3",
+      "cliente": "QG da Pizza",
+      "resp": "Lislane",
+      "valor": 1200,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c4",
+      "cliente": "QG Cozinha",
+      "resp": "Lislane",
+      "valor": 800,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c5",
+      "cliente": "ACS Junior",
+      "resp": "Lislane",
+      "valor": 1333.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c6",
+      "cliente": "ACS Varejista",
+      "resp": "Lislane",
+      "valor": 866.67,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c7",
+      "cliente": "ACS Motos",
+      "resp": "Lislane",
+      "valor": 353.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c8",
+      "cliente": "JL Parts",
+      "resp": "Lislane",
+      "valor": 1733.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c9",
+      "cliente": "NP Parts",
+      "resp": "Lislane",
+      "valor": 933.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c10",
+      "cliente": "HGT Engenharia",
+      "resp": "Lislane",
+      "valor": 1890.17,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c11",
+      "cliente": "AM Bezerra",
+      "resp": "Lislane",
+      "valor": 1250,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c12",
+      "cliente": "Ávila Sensualite",
+      "resp": "Lislane",
+      "valor": 1333.33,
+      "tag": "",
+      "obs": "",
+      "risco": true
+    },
+    {
+      "id": "c13",
+      "cliente": "Edf. Savana",
+      "resp": "Joana",
+      "valor": 1007.25,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c14",
+      "cliente": "Hubfi Corretora",
+      "resp": "Joana",
+      "valor": 833.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c15",
+      "cliente": "Hubfi Holding",
+      "resp": "Joana",
+      "valor": 524.2,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c16",
+      "cliente": "Hubfi Tecnologia",
+      "resp": "Joana",
+      "valor": 1000,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c17",
+      "cliente": "Hubfi Serviços Financeiros",
+      "resp": "Joana",
+      "valor": 1000,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c18",
+      "cliente": "Conjunto Pernambuco",
+      "resp": "Joana",
+      "valor": 1333.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c19",
+      "cliente": "Coffeetown Recife (Mendonças Café)",
+      "resp": "Joana",
+      "valor": 1666.67,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c20",
+      "cliente": "Coffeetown RioMar (WL Café)",
+      "resp": "Joana",
+      "valor": 1766.67,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c21",
+      "cliente": "Grupo Soma",
+      "resp": "Joana",
+      "valor": 1000,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c22",
+      "cliente": "Tiago Fotografia",
+      "resp": "Joana",
+      "valor": 560,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c23",
+      "cliente": "Aeroclube",
+      "resp": "Joana",
+      "valor": 1300,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c24",
+      "cliente": "Mania Caseira Restaurante Ltda",
+      "resp": "Joana",
+      "valor": 1400,
+      "tag": "Novo",
+      "obs": "Cobrança a partir de nov/2026",
+      "risco": false
+    },
+    {
+      "id": "c25",
+      "cliente": "Talita S V Aragao Restaurante",
+      "resp": "Joana",
+      "valor": 1400,
+      "tag": "Novo",
+      "obs": "Cobrança a partir de nov/2026",
+      "risco": false
+    },
+    {
+      "id": "c40",
+      "cliente": "Mania Caseira Restaurante Ltda — Filial Dog Mania",
+      "resp": "Joana",
+      "valor": 0,
+      "tag": "Novo",
+      "obs": "Cobrança a partir de nov/2026 · honorário a definir",
+      "risco": false
+    },
+    {
+      "id": "c26",
+      "cliente": "FR Bebidas",
+      "resp": "Joana",
+      "valor": 3039.33,
+      "tag": "Transferido",
+      "obs": "Vindo da carteira da Jéssica",
+      "risco": false
+    },
+    {
+      "id": "c27",
+      "cliente": "LR Bebidas",
+      "resp": "Joana",
+      "valor": 666.67,
+      "tag": "Transferido",
+      "obs": "Vindo da carteira da Jéssica",
+      "risco": false
+    },
+    {
+      "id": "c28",
+      "cliente": "Designsoft",
+      "resp": "Jéssica",
+      "valor": 1533.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c29",
+      "cliente": "Luz do Sol",
+      "resp": "Jéssica",
+      "valor": 1000,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c30",
+      "cliente": "Zé Santino ZN (Aganju Comércio de Roupas)",
+      "resp": "Jéssica",
+      "valor": 1186.67,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c31",
+      "cliente": "Empório Jato",
+      "resp": "Jéssica",
+      "valor": 1500,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c32",
+      "cliente": "LP Confecções",
+      "resp": "Jéssica",
+      "valor": 600,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c33",
+      "cliente": "MAC Fardamentos",
+      "resp": "Jéssica",
+      "valor": 2866.67,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c34",
+      "cliente": "Unilux",
+      "resp": "Jéssica",
+      "valor": 3333.33,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    },
+    {
+      "id": "c35",
+      "cliente": "Paradise Beach",
+      "resp": "Jéssica",
+      "valor": 2250,
+      "tag": "Novo",
+      "obs": "Cobrança no mês seguinte ao início do operacional",
+      "risco": false
+    },
+    {
+      "id": "c36",
+      "cliente": "Paradise Beach 2",
+      "resp": "Jéssica",
+      "valor": 2250,
+      "tag": "Novo",
+      "obs": "Cobrança no mês seguinte ao início do operacional",
+      "risco": false
+    },
+    {
+      "id": "c37",
+      "cliente": "HLS Soluções",
+      "resp": "Ana",
+      "valor": 1166.67,
+      "tag": "",
+      "obs": "",
+      "risco": true
+    },
+    {
+      "id": "c38",
+      "cliente": "D'Luar Parfum",
+      "resp": "Ana",
+      "valor": 1166.67,
+      "tag": "",
+      "obs": "",
+      "risco": true
+    },
+    {
+      "id": "c39",
+      "cliente": "KR Empreendimentos",
+      "resp": "Ana",
+      "valor": 1666.67,
+      "tag": "",
+      "obs": "",
+      "risco": false
+    }
+  ],
+  "previstos": [
+    {
+      "id": "p1",
+      "cliente": "Buffet Estripulia",
+      "inicio": "Janeiro/2027",
+      "resp": "",
+      "valor": null,
+      "obs": ""
+    }
+  ],
+  "dataBase": "07/10/2026",
+  "atualizadoEm": "2026-10-07T18:06:24.805Z"
+}
