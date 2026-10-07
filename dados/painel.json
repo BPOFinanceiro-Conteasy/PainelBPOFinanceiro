@@ -56,7 +56,7 @@
       "status": "Confirmado",
       "atividade": "Assessoria Financeira",
       "obs": "",
-      "execucao": "",
+      "execucao": "Em andamento",
       "total": 2500,
       "setor": 2200,
       "comissaoPct": 10
@@ -591,5 +591,5 @@
     }
   ],
   "dataBase": "07/10/2026",
-  "atualizadoEm": "2026-10-07T18:06:24.805Z"
+  "atualizadoEm": "2026-10-07T18:06:45.156Z"
 }
