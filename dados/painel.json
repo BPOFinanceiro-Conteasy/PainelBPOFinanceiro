@@ -216,6 +216,18 @@
       "total": 9500,
       "setor": 1860,
       "comissaoPct": 10
+    },
+    {
+      "id": "emuyfbrj99rs5",
+      "cliente": "Novo cliente",
+      "mes": "Outubro",
+      "status": "Aguardando",
+      "atividade": "",
+      "obs": "",
+      "execucao": "A iniciar",
+      "total": 0,
+      "setor": null,
+      "comissaoPct": 10
     }
   ],
   "carteira": [
@@ -591,5 +603,5 @@
     }
   ],
   "dataBase": "07/10/2026",
-  "atualizadoEm": "2026-10-07T18:11:05.863Z"
+  "atualizadoEm": "2026-10-07T18:11:13.319Z"
 }
